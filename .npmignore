@@ -1,0 +1,21 @@
+# Git files
+.git/
+.gitignore
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+
+# SQLite database files
+*.sqlite
+*.sqlite3
+*.db
+*.db-journal
+
+# Dependencies
+node_modules/
+package-lock.json

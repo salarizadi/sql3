@@ -1,0 +1,38 @@
+{
+  "name": "@salarizadi/sql3",
+  "version": "1.0.0",
+  "description": "A helpful SQLite3 wrapper providing fluent interface, transactions, and enhanced database operations",
+  "main": "SQL3.js",
+  "scripts": {
+    "test": "node SQL3.test.js"
+  },
+  "keywords": [
+    "sqlite",
+    "sqlite3",
+    "database",
+    "wrapper",
+    "query-builder",
+    "transaction",
+    "async",
+    "promise"
+  ],
+  "author": {
+    "name": "Salar Izadi",
+    "url": "https://salarizadi.ir"
+  },
+  "license": "MIT",
+  "files": [
+    "SQL3.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salarizadi/sql3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/salarizadi/sql3/issues"
+  },
+  "homepage": "https://github.com/salarizadi/sql3#readme",
+  "dependencies": {
+    "sqlite3": "^5.1.7"
+  }
+}
