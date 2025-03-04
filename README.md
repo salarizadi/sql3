@@ -25,6 +25,7 @@ A helpful SQLite3 wrapper that enhances your database operations with a fluent i
 ```bash
 npm install sql3
 ```
+OR
 ```bash
 yarn add sql3
 ```
@@ -32,10 +33,13 @@ yarn add sql3
 ## Quick Start
 
 ```javascript
-const SQL3 = require('sql3');
+const SQL3 = require('@salarizadi/sql3');
 
-// Initialize database
-const db = new SQL3('database.sqlite');
+// In-memory database (temporary, for testing)
+const db = new SQL3(':memory:');
+
+// File-based database (persistent storage)
+// const db = new SQL3('database.sqlite');
 
 async function main() {
     // Create a table
