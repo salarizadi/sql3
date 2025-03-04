@@ -23,11 +23,11 @@ A helpful SQLite3 wrapper that enhances your database operations with a fluent i
 ## Installation
 
 ```bash
-npm install sql3
+npm install @salarizadi/sql3
 ```
 OR
 ```bash
-yarn add sql3
+yarn add @salarizadi/sql3
 ```
 
 ## Quick Start
