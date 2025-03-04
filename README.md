@@ -1,5 +1,12 @@
 # SQL3
 
+[![npm version](https://img.shields.io/npm/v/@salarizadi/sql3.svg)](https://www.npmjs.com/package/@salarizadi/sql3)
+[![npm downloads](https://img.shields.io/npm/dm/@salarizadi/sql3.svg)](https://www.npmjs.com/package/@salarizadi/sql3)
+[![npm bundle size](https://img.shields.io/bundlephobia/min/@salarizadi/sql3)](https://bundlephobia.com/package/@salarizadi/sql3)
+[![License](https://img.shields.io/npm/l/@salarizadi/sql3)](https://github.com/salarizadi/sql3/blob/main/LICENSE)
+[![GitHub last commit](https://img.shields.io/github/last-commit/salarizadi/sql3)](https://github.com/salarizadi/sql3/commits/main)
+[![npm type definitions](https://img.shields.io/npm/types/@salarizadi/sql3)](https://www.npmjs.com/package/@salarizadi/sql3)
+
 A helpful SQLite3 wrapper that enhances your database operations with a fluent interface, transactions, and modern async/await support.
 
 ## Features
