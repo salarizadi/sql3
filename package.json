@@ -22,7 +22,8 @@
   },
   "license": "MIT",
   "files": [
-    "SQL3.js"
+    "SQL3.js",
+    "SQL3.test.js"
   ],
   "repository": {
     "type": "git",
